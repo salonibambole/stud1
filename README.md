@@ -1,1 +1,2 @@
 # stud1
+# studentdelatil
