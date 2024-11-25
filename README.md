@@ -1,1 +1,1 @@
-# stu-detl
+# task-stu-detail4
